@@ -1,21 +1,21 @@
 # Multiple_Linear_Regression
 These are 2 projects I worked on using Multiple linear regression
 
-# Projects
+## Projects
 50 Startups project is about predicting the Profit using multiple factors (Amount spent on R&D, Administration, Marketing and the state where the startup is based).
 
 Toyota_Corrola project is about predicting the Price of the car using multiple factors (Age_08_04, KM, HP, CC, Doors, Gears, Quaterly Tax and Weight).
 
-# Prerequisites
+## Prerequisites
 Modules: numpy, pandas, matplotlib, seaborn, statsmodel
 
 You can install these modules using the command pip. example: pip install numpy
 
-# Built With
+## Built With
 python, jupyter
 
-# Author
+## Author
 Anjali
 
-# Acknowledgments
+## Acknowledgments
 Learnt Multiple Linear Regression from Excelr(The Data Science Course 2021: Complete Data Science Bootcamp)
